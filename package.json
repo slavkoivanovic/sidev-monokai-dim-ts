@@ -1,0 +1,45 @@
+{
+  "name": "monokai-dim-ts",
+  "displayName": "Sidev Monokai Dim TS",
+  "description": "Monokai-like theme for VS Code, with typescript syntax separation. Targets ts, tsx, jsx, html, css.",
+  "version": "0.0.1",
+  "publisher": "sidev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/slavkoivanovic/sidev-monokai-dim-ts.git"
+  },
+  "keywords": [
+    "sidev",
+    "vscode",
+    "theme",
+    "Dark Theme",
+    "javascript",
+    "dimmed",
+    "typescript",
+    "separation",
+    "Monokai"
+  ],
+  "author": "[si] Slavko Ivanovic (https://slavkoivanovic.github.io/)",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "engines": {
+    "vscode": "^1.17.0"
+  },
+  "icon" : "icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "scripts": {
+    "publish": "vsce publish",
+    "package": "vsce package"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "id": "monokai-dim-ts-dark",
+        "label": "Sidev Monokai Dim TS",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sidev-monokai-dim-ts-color-theme.json"
+      }
+    ]
+  }
+}
