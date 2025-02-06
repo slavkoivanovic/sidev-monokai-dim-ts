@@ -15,7 +15,7 @@ By making type information visually separated and subtle, you can focus on your 
 
 ## Clarity and Focus
 
-![First Screen Light](screenshot-2.png)
+![Screen Dark](https://raw.githubusercontent.com/slavkoivanovic/sidev-monokai-dim-ts/refs/heads/si-main/screenshot-2.png)
 
 ## Color Scheme
 
@@ -92,6 +92,8 @@ By making type information visually separated and subtle, you can focus on your 
 
 ## Installation
 
+![Screen Dark](https://raw.githubusercontent.com/slavkoivanovic/sidev-monokai-dim-ts/refs/heads/si-main/icon.png)
+
 1. Go to VS Code Marketplace
 2. Search for `Sidev Monokai Dim TS`
 3. Click Install
@@ -131,4 +133,4 @@ Released under the [MIT License](LICENSE).
 
 ### _Greetings_!
 
-_Poseban pozdrav za tim mojih saradnika koji su me "primorali" da publishujem temu, da bi oni mogli lakse instalirati 😂_
+_Poseban pozdrav za tim-zim mojih saradnika koji su me "primorali 😂" da publishujem moju temu, da bi oni mogli lakse instalirati_
